@@ -4,7 +4,7 @@ description: A brief summary of this course.
 
 # Introduction
 
-Hey there, and welcome to Learn While Doing's **FTC Robotics Java** course. This course will go over the basics of OOP \(object-oriented programming\) using the Java language, and how these concepts are applied to the real-world in the case of FTC OnBot Java.
+Hey there, and welcome to Learn While Doing's **FTC Robotics Java** course. This course will go over the basics of OOP \(object-oriented programming\) with the Java programming language, and how these concepts are applied to the real-world in the case of FTC OnBot Java.
 
 ## What's covered in this course?
 
