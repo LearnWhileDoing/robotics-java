@@ -21,5 +21,13 @@ Do you have any suggestions for improvement? Please contact us with your ideas a
 
 You can also open an issue or make a pull request on our Github repo.
 
+## License
 
+This course is open-source and available on GitHub at [https://github.com/LearnWhileDoing/robotics-java](https://github.com/LearnWhileDoing/robotics-java). The course is licensed under the copy-left GNU General Public License v3.0 \(GNU GPLv3\). 
+
+> Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications, which include larger works using a licensed work, under the same license. Copyright and license notices must be preserved. Contributors provide an express grant of patent rights.
+
+Basically, if you plan on redistributing the source material for this course, you must state the original source of said material and give credit where necessary.
+
+To read a full version of the license, visit [https://github.com/LearnWhileDoing/robotics-java/blob/master/LICENSE](https://github.com/LearnWhileDoing/robotics-java/blob/master/LICENSE).
 
