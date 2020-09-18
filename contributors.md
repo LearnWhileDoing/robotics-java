@@ -6,12 +6,12 @@ This course was written by FTC Robotics Team 10415. Go Warbots!
 
 Main authors:
 
-* Cole Gawin \([chroline](https://github.com/chroline)\) - Lead programmer, 10415
+* [u/chroline](https://www.reddit.com/user/chroline),  [chroline](https://github.com/chroline),  - Lead programmer, 10415
 
 Secondary contributors:
 
-* Brandon Kerpel \([u/brandonk8325](https://www.reddit.com/user/brandonk8325)\) - Construction supervisor, 10415
-* Brandon Kluge - Club president, DHS Robotics
+* [u/brandonk8325](https://www.reddit.com/user/brandonk8325) - Construction supervisor, 10415
+* bk2 - Club president, DHS Robotics
 
 Also, many thanks to those who proof-read and tested this tutorial!
 
