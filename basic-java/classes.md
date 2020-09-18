@@ -81,7 +81,9 @@ public class Car {
 }
 ```
 
-In the methods lesson, you learned about access specification on methods. The same concept applies to instance variables.
+{% hint style="info" %}
+In the methods lesson, you learned about [access specification](methods.md#access-specifier) on methods. The same concept applies to instance variables.
+{% endhint %}
 
 ### Constructor
 

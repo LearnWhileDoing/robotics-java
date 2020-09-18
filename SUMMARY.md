@@ -8,6 +8,7 @@
 ## Understanding Java
 
 * [Program Structure](understanding-java/program-structure.md)
+* [Technical Details](understanding-java/technical-details.md)
 * [Variables and Primitive Types](understanding-java/variables-and-primitive-types.md)
 * [Using Java Programs](understanding-java/using-java-programs.md)
 
@@ -45,8 +46,9 @@
 ## Advanced
 
 * [FTC/Hardware](advanced/ftc-hardware/README.md)
-  * [Wireless Push](advanced/ftc-hardware/wireless-push.md)
+  * [Wireless Pushing](advanced/ftc-hardware/wireless-push.md)
 * [Java](advanced/java/README.md)
   * [Inheritance & Composition](advanced/java/inheritance-and-composition.md)
+  * [Abstract classes & Interfaces](advanced/java/abstract-classes-and-interfaces.md)
 * [Coming Soon](advanced/coming-soon.md)
 

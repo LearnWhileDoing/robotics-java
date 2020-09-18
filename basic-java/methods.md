@@ -28,7 +28,9 @@ The first line of that program is called the _method header_. The following are 
 
 The first keyword, `public` is the access specifier. This tells Java where this method can be used. If the method is _public_, then it can be used anywhere the class is used. If it is _private_, then it can only be used **within** the class itself.
 
-Why would we want to make a method private? Sometimes, we will use methods that should **only** be used by methods within the class. In order to signify this to Java \(and to ourselves\) we make the method private.
+Why would we want to make a method private? Sometimes, we will use methods that should **only** be used by methods within the class. In order to signify this to Java \(and to ourselves\) we make the method private. 
+
+This grouping of information is known as encapsulation, and is one of the primary laws of OOP. This principle also applies to [instance variables](classes.md#instance-variables).
 
 #### Return Type
 
@@ -126,8 +128,6 @@ public class MyProgram {
 }
 ```
 
-As you can see, there are many ways to write and call methods.
-
 {% hint style="info" %}
 Remember that if a method belongs to a class we are a client of, you must call it on an object of that class.
 {% endhint %}
@@ -137,10 +137,13 @@ Remember that if a method belongs to a class we are a client of, you must call i
 When a method _returns_ a value, it means that the method will give back a value to whatever called it.
 
 ```java
-public void getGreeting() {
-    String theGreeting = greeting();
+public String getColor() {
+    return color;
 }
+
+// ...
+String theColor = getColor();
 ```
 
-In that example, the variable `theGreeting` is assigned to the value _returned_ by the `greeting()` method.
+In that example, the variable `theColor` is assigned to the value _returned_ by the `getColor()` method.
 

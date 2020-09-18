@@ -38,6 +38,14 @@ As the name suggests, different _data types_ specify what type of data can be as
 
 In most cases, only the first 4 of those types are used. The other 4 are mainly used when memory consumption on your computer is of utmost importance, which is not the objective of this course.
 
+### Why is Java not purely OOP?
+
+As explained, Java has 8 primitive data types, as does the C programming language. However, this breaks the first law of pure OOP languages:
+
+> 1. Pre-defined types are objects
+
+Those 8 primitive data types are _primitives_, meaning they are not _objects_. Furthermore, this means that you cannot directly call [methods](../basic-java/methods.md) on them, but must instead use helper classes instead.
+
 ## Quiz
 
 {% tabs %}

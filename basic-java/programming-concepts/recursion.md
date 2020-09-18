@@ -83,5 +83,5 @@ public void moveForwards() {
 }
 ```
 
-This is an alternative to writing a while loop, and can be used for different applications as well.
+Although in this rather simplistic example it is used as an alternative to while loops, recursion can be very useful when there are multiple conditions you need to confirm before you rerun the  code and for more complex use cases.
 

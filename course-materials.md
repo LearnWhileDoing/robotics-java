@@ -17,7 +17,7 @@ This course was created for FTC OnBot Java, so we recommend that you have access
 
 ## Testing Out Code
 
-We recommend using repl.it to test code out. We've found it's the easiest way to get up and running, with no setup required. For many lessons, it will greatly improve your ability to comprehend the material if you try it out yourself. [Try it out now!](https://repl.it/languages/java10)
+We recommend using repl.it to test code out. We've found it's the easiest way to get up and running, with minimal setup required. For many lessons, it will greatly improve your ability to comprehend the material if you try it out yourself. [Try it out now!](https://repl.it/languages/java10)
 
 **Great, now let's get started!**
 
