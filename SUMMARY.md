@@ -49,6 +49,6 @@
   * [Wireless Pushing](advanced/ftc-hardware/wireless-push.md)
 * [Java](advanced/java/README.md)
   * [Inheritance & Composition](advanced/java/inheritance-and-composition.md)
-  * [Abstract classes & Interfaces](advanced/java/abstract-classes-and-interfaces.md)
+  * [Interfaces and abstract classes](advanced/java/abstract-classes-and-interfaces.md)
 * [Coming Soon](advanced/coming-soon.md)
 

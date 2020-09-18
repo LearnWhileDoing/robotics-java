@@ -11,9 +11,9 @@ Object-oriented programming, often shortened to OOP, is a term that is used to d
 There are 4 pillars, or rules, of OOP: 
 
 1. [Inheritance](../advanced/java/inheritance-and-composition.md#inheritance), the sharing of information
-2. Abstraction, the hiding of information
+2. [Abstraction](../advanced/java/abstract-classes-and-interfaces.md), the hiding of information
 3. [Encapsulation](../basic-java/classes.md#instance-variables), the grouping of information
-4. Polymorphism, the redefining of information
+4. [Polymorphism](../advanced/java/abstract-classes-and-interfaces.md#polymorphism), the redefining of information
 
 Moreover, there are 3 qualities that make a language a pure OOP language.
 
