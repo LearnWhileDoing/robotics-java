@@ -15,7 +15,9 @@ This line of code is called a _variable declaration_, and consists of a left and
 * The left-hand side of a variable declaration has a data type \(`int`\) and a name \(`amount`\), in that order. This tells your computer that the variable `amount` has the data type `int`, which will never change.
 * The right-hand side is the _value_ which the variable will store. In this case, the value will be 3.
 
-> Values _can_ change, data types _cannot_.
+{% hint style="info" %}
+Values _can_ change, data types _cannot_.
+{% endhint %}
 
 ## Data Types
 
