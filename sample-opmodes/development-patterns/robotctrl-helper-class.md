@@ -16,7 +16,7 @@ We will be creating a new class called `RobotCtrl`, pronounced robot control or 
 * `strafe(double speed)` - horizontal movement
 * `rotate(double speed)` - rotation
 
-```text
+```java
 class RobotCtrl {
     public void move(double speed) {
     }
