@@ -48,6 +48,8 @@
 
 * [TeleOp](sample-opmodes/teleop.md)
 * [Autonomous](sample-opmodes/autonomous.md)
+* [Development Patterns](sample-opmodes/development-patterns/README.md)
+  * [RobotCtrl Helper Class](sample-opmodes/development-patterns/robotctrl-helper-class.md)
 
 ## Advanced
 

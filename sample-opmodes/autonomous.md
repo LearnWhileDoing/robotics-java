@@ -16,7 +16,7 @@ public class MyFirstAuton extends LinearOpMode {
 }
 ```
 
-In this case, we will be overriding the `runOpMode()` method. Now we can declare our motors. We will also be assigning a _direction_ to each motor. This is because the left motor will spin forwards on its axis while the right motor will spin backwards, assuming you are using a standard chassis.
+In this case, we will be overriding the `runOpMode()` method. Now we can declare our motors. 
 
 ```java
 public void runOpMode() {

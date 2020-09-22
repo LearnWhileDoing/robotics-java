@@ -19,7 +19,7 @@ public class MyFirstTeleOp extends OpMode {
 }
 ```
 
-As you can see, we will be overriding the `init()` and the `loop()` methods. We are going to use the `init()` to access the `hardwareMap`.
+As you can see, we will be overriding the `init()` and the `loop()` methods. We are going to use the `init()` to access the `hardwareMap`. We will also be assigning a _direction_ to each motor. This is because the left motor will spin forwards on its axis while the right motor will spin backwards, assuming you are using a standard chassis.
 
 ```java
 public class MyFirstTeleOp extends OpMode {
@@ -29,6 +29,9 @@ public class MyFirstTeleOp extends OpMode {
     public void init() {
         left = hardwareMap.get(DcMotor.class, "left");
         right = hardwareMap.get(DcMotor.class, "right");
+        
+        left.setDirection(DcMotor.Direction.FORWARD);
+        right.setDirection(DcMotor.Direction.REVERSE);
     }
 
     public void loop() {
@@ -44,7 +47,7 @@ Now we have access to the left and right motors, but how do we interact with the
 
 ```java
 public void loop() {
-    left.setPower(-gamepad1.left_stick_y);
+    left.setPower(gamepad1.left_stick_y);
     right.setPower(gamepad1.right_stick_y);
 }
 ```
@@ -69,7 +72,7 @@ public class MyFirstTeleOp extends OpMode {
     }
 
     public void loop() {
-        left.setPower(-gamepad1.left_stick_y);
+        left.setPower(gamepad1.left_stick_y);
         right.setPower(gamepad1.right_stick_y);
     }
 }
