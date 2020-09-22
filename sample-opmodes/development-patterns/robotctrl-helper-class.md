@@ -14,7 +14,7 @@ We will be creating a new class called `RobotCtrl`, pronounced robot control or 
 
 * `move(double speed)` - vertical movement
 * `strafe(double speed)` - horizontal movement
-* `rotate(double speed, int angle)` - rotation
+* `rotate(double speed)` - rotation
 
 ```text
 class RobotCtrl {
