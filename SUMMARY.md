@@ -20,6 +20,7 @@
   * [Control Flow](basic-java/programming-concepts/if-else.md)
   * [Loops](basic-java/programming-concepts/loops.md)
   * [Recursion](basic-java/programming-concepts/recursion.md)
+  * [Scope](basic-java/programming-concepts/scope.md)
 * [Methods](basic-java/methods.md)
 * [Classes](basic-java/classes.md)
 * [Arrays and ArrayLists](basic-java/arrays-and-arraylists.md)
@@ -42,6 +43,11 @@
 * [Using the Hardware Map](onbot-java/using-the-hardware-map.md)
 * [Moving your robot](onbot-java/moving-your-robot.md)
 * [More OpMode magic](onbot-java/more-opmode-magic.md)
+
+## Sample Code <a id="sample-opmodes"></a>
+
+* [TeleOp](sample-opmodes/teleop.md)
+* [Autonomous](sample-opmodes/autonomous.md)
 
 ## Advanced
 

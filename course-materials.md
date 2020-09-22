@@ -15,6 +15,10 @@ This course was created for FTC OnBot Java, so we recommend that you have access
 * an FTC Control/Expansion Hub
 * \(optional\) access to an actual FTC robot!
 
+If you need to set up Expansion Hubs, jump to [Expansion Hub setup](robot-setup/robot-setup/ftc-control-system/expansion-hub-setup.md#materials) to learn what materials you need for that section.
+
+If you plan on running TeleOp, you will need at least one gamepad.
+
 ## Testing Out Code
 
 We recommend using repl.it to test code out. We've found it's the easiest way to get up and running, with minimal setup required. For many lessons, it will greatly improve your ability to comprehend the material if you try it out yourself. [Try it out now!](https://repl.it/languages/java10)

@@ -12,7 +12,7 @@ There are two kinds of OpModes, and both serve different purposes.
 
 TeleOp code is controlled by the driver of your robot through the game controller and the Driver Station phone.
 
-A TeleOp program [extends the class](../advanced/java/inheritance-and-composition.md#inheritance) `OpMode`. The `OpMode` class provides us with 3 methods to **override**:
+A TeleOp program [extends the class](../advanced/java/inheritance-and-composition.md#inheritance) `OpMode`. The `OpMode` class provides us with 3 methods to _override_:
 
 * `init()` - called when the INIT button is pressed on the Driver Station phone.
 * `init_loop()` - called when the INIT button is pressed. Called repeatedly until the STOP button is pressed.
@@ -25,7 +25,7 @@ In your OpMode program, you can add code for each of these methods. The code you
 {% hint style="info" %}
 The term override refers to when the class you are extending already has a specific method that you want to re-implement in your new class.
 
-For example, the `OpMode` class has a method `init()` by itself, but we need to _override_ it and use our own code.
+For example, the `OpMode` class has an empty `init()`method by itself, but we need to _override_ it and use our own code.
 {% endhint %}
 
 ## Autonomous \(LinearOpMode\)

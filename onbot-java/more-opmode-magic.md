@@ -51,3 +51,7 @@ When the `update` method is called, the telemetry log data is cleared sent to th
 telemetry.update()
 ```
 
+## Gamepad
+
+The gamepad is available with the `gamepad1` and `gamepad2` variables in the `OpMode` and `LinearOpMode` classes. There are a lot of controls and buttons on a gamepad. For a full list, visit [https://ftctechnh.github.io/ftc\_app/doc/javadoc/com/qualcomm/robotcore/hardware/Gamepad.html](https://ftctechnh.github.io/ftc_app/doc/javadoc/com/qualcomm/robotcore/hardware/Gamepad.html) and scroll down to "Field summary". That will provide you will all of the fields that represent controls on a gamepad and the variable type, with some extra utility fields.
+

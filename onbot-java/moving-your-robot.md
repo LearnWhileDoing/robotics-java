@@ -16,7 +16,9 @@ DcMotor myMotor = hardwareMap.get(DcMotor.class, "motor");
 
 Now, the motor you assigned to the name "motor" in your hardware map configuration will be stored in the variable `myMotor`.
 
+{% hint style="info" %}
 Remember to change "motor" to whatever name you assigned to your motor in your own configuration.
+{% endhint %}
 
 ## Powering a motor
 

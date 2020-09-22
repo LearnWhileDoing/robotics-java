@@ -8,6 +8,8 @@ description: What's a Java program like?
 
 Let's look at a basic Java program and break it down.
 
+`MyProgram.java`
+
 ```java
 public class MyProgram {
    public static void main(String[] args) {
@@ -17,6 +19,12 @@ public class MyProgram {
 ```
 
 This program will print "Hello World" to the console. In almost every Java program including this one, you will notice a few things.
+
+### Filename
+
+The filename of every file in a Java program must be the name of the **single** public [class](../basic-java/classes.md), [interface](../advanced/java/abstract-classes-and-interfaces.md#interfaces), or [enum](../advanced/coming-soon.md).
+
+**There can only be one main public class, interface, or enum in a file.**
 
 ### Java Syntax
 
