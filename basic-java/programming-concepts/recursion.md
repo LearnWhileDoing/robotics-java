@@ -74,7 +74,7 @@ However, you could also write it as a recursive function.
 // public void stop()
 // public boolean canSeeWall()
 
-public void moveForwards() {
+void moveForwards() {
     if(canSeeWall()) stop();
     else {
         /* code to move forwards once... */

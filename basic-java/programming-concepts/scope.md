@@ -1,5 +1,5 @@
 ---
-description: Peek-a-boo!
+description: 'Peek-a-boo, I see you!'
 ---
 
 # Scope
