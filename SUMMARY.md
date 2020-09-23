@@ -20,9 +20,9 @@
   * [Control Flow](basic-java/programming-concepts/if-else.md)
   * [Loops](basic-java/programming-concepts/loops.md)
   * [Recursion](basic-java/programming-concepts/recursion.md)
-  * [Scope](basic-java/programming-concepts/scope.md)
 * [Methods](basic-java/methods.md)
 * [Classes](basic-java/classes.md)
+* [Scope](basic-java/scope.md)
 * [Arrays and ArrayLists](basic-java/arrays-and-arraylists.md)
 
 ## Setup <a id="robot-setup"></a>
