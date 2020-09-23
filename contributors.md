@@ -13,6 +13,8 @@ Secondary contributors:
 * [u/brandonk8325](https://www.reddit.com/user/brandonk8325) - Construction supervisor, 10415
 * bk2 - Club president, DHS Robotics
 
+Thanks to great suggestions and contributions from [FROGbots-4634](https://github.com/FROGbots-4634)!
+
 Also, many thanks to those who proof-read and tested this tutorial!
 
 ## Become a contributor

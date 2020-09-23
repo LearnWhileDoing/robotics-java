@@ -103,7 +103,7 @@ Assuming you have successfully built and pushed the app to your phone, you can n
 
 Verify that your phones are still connected to each other. On the Driver Station phone, open the Autonomous dropdown list to see your OpModes. You should see `MyFIRSTOpMode`. Choose it as your OpMode.
 
-When you are ready, tap the INIT button. \(If you have code in the `runOpMode()` method, the code before `waitForStart()` will execute.\) Then, tap the start button. \(If you have code in the `runOpMode()` method, the code after `waitForStart()` will execute.\) The OpMode should stop by itself.
+When you are ready, tap the INIT button. \(If you have code in the `runOpMode()` method, the code before `waitForStart()` will execute.\) If you have code in the `runOpMode()` method after the `waitForStart()` method, click the start button. The OpMode should stop by itself.
 
 If no errors occurred, then congratulations! You coded, built, pushed, and run your first OpMode! 👏
 
