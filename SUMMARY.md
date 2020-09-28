@@ -43,7 +43,8 @@
 * [Using the Hardware Map](onbot-java/using-the-hardware-map.md)
 * [Moving your robot](onbot-java/moving-your-robot.md)
 * [More OpMode magic](onbot-java/more-opmode-magic.md)
-* [FTC Library Docs](onbot-java/ftc-library-docs.md)
+* [FTC Library Docs](onbot-java/ftc-library-docs/README.md)
+  * [DcMotor](onbot-java/ftc-library-docs/dcmotor.md)
 
 ## Sample Code <a id="sample-opmodes"></a>
 
