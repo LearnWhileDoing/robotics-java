@@ -10,13 +10,6 @@ This document provides a reference library for the use of gamepads. To start off
 package org.firstinspires.ftc.teamcode;
 
 import com.qualcomm.robotcore.hardware;
-
-@TeleOp
-public class Gamepads extends LinearOpMode {
-    public void runOpMode() {
-        // Here is where your code will go. Our main methods will align with the main method of your program.
-    }
-}
 ```
 
 # Code Reference
