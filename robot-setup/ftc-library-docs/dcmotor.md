@@ -5,7 +5,7 @@ description: Reference library for the use of DC Motors
 # DC Motor Configuration
 
 This document provides a reference library for the use of DC Motors. To start off, be sure to get your program set up.
-Check game manual part 1 for a list of game-legal motors
+Check Game Manual part 1 for a list of game-legal motors
 
 First, be sure to get the necessary packages imported:
 ```java
@@ -19,7 +19,7 @@ public class Gamepads extends LinearOpMode {
     DcMotor intakeMotor;
 
     public void init() {
-        intakeMotor = hardwareMap.get("intake"); // Replace intake with whatever you called your motor in your robot configuration.
+        intakeMotor = hardwareMap.get(DcMotor.class,"intake"); // Replace intake with whatever you called your motor in your robot configuration.
     }
 
     public void start() {
