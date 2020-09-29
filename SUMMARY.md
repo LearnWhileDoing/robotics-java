@@ -42,7 +42,10 @@
 * [Your FIRST OpMode!](onbot-java/your-first-opmode.md)
 * [Using the Hardware Map](onbot-java/using-the-hardware-map.md)
 * [Moving your robot](onbot-java/moving-your-robot.md)
-* [More OpMode magic](onbot-java/more-opmode-magic.md)
+* [More OpMode magic](onbot-java/more-opmode-magic/README.md)
+  * [Gamepad](onbot-java/more-opmode-magic/gamepad.md)
+* [FTC Library Docs](onbot-java/ftc-library-docs/README.md)
+  * [DcMotor](onbot-java/ftc-library-docs/dcmotor.md)
 
 ## Sample Code <a id="sample-opmodes"></a>
 

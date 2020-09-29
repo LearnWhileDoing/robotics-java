@@ -4,14 +4,15 @@ This course was written by FTC Robotics Team 10415. Go Warbots!
 
 ## Authors
 
-Main authors:
+Main author:
 
 * [u/chroline](https://www.reddit.com/user/chroline),  [chroline](https://github.com/chroline),  - Lead programmer, 10415
 
-Secondary contributors:
+With contributions from:
 
 * [u/brandonk8325](https://www.reddit.com/user/brandonk8325) - Construction supervisor, 10415
 * bk2 - Club president, DHS Robotics
+* [jackcrane](https://github.com/jackcrane) - FTC Team 14365
 
 Thanks to great suggestions and contributions from [FROGbots-4634](https://github.com/FROGbots-4634)!
 
