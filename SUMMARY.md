@@ -46,6 +46,7 @@
   * [Gamepad](onbot-java/more-opmode-magic/gamepad.md)
 * [FTC Library Docs](onbot-java/ftc-library-docs/README.md)
   * [DcMotor](onbot-java/ftc-library-docs/dcmotor.md)
+  * [Color Sensor](onbot-java/ftc-library-docs/color-sensor.md)
 
 ## Sample Code <a id="sample-opmodes"></a>
 
