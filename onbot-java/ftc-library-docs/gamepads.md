@@ -4,7 +4,7 @@ description: Reference library for the use of gamepads
 
 # Gamepad Configuration
 
-This document provides a reference library for the use of gamepads. To start off, be sure to get your program set up.
+This document provides a reference library for the use of gamepads. To start off, be sure to get your program set up. Check Game Manual part 1 for legal gamepads.
 
 ```java
 package org.firstinspires.ftc.teamcode;
