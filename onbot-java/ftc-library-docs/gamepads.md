@@ -35,6 +35,7 @@ import com.qualcomm.robotcore.hardware;
 |Y button|`gamepad1.y`|`boolean`|This is the y button|
 |Guide button (Large button in the middle of the gamepad)|`gamepad1.guide`|`boolean`|This is the start button. **Use with caution, on some Android configurations with some gamepads, pressing this button while the program is running will quit the driver station app.**|
 |Left Stick Button|`gamepad1.left_stick_button`|`boolean`|This is when you press down on the left joystick. **Use with caution, it is hard to press this button without giving any x or y input**|
+|Right Stick Button|`gamepad1.right_stick_button`|`boolean`|This is when you press down on the right joystick. **Use with caution, it is hard to press this button without giving any x or y input**|
 
 # Notes
 The buttons, analog sticks, and triggers are represented a public member variables that can be read from or written to directly.

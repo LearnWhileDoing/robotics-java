@@ -4,7 +4,7 @@ description: Reference library for the use of Continuous Rotation Servos.
 
 # Continuous Rotation Servo Configuration
 
-This document provides a reference library for the use of Continuous Rotation Servos (henceforth refered to as *CRServos*). To start off, be sure to get your program set up.
+This document provides a reference library for the use of Continuous Rotation Servos (henceforth referred to as *CRServos*). To start off, be sure to get your program set up.
 Check game manual part 1 for a list of game-legal servos.
 
 First, be sure to get the necessary packages imported:
