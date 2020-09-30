@@ -10,11 +10,13 @@ Check game manual part 1 for a list of game-legal sensors
 First, be sure to get the necessary packages imported:
 ```java
 package org.firstinspires.ftc.teamcode;
+import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 import com.qualcomm.robotcore.hardware.ColorSensor;
 ```
 Then, be sure to init the sensor:
 ```java
 package org.firstinspires.ftc.teamcode;
+import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 import com.qualcomm.robotcore.hardware;
 
 @TeleOp
@@ -31,6 +33,7 @@ public class ColorSensorTest extends LinearOpMode {
 ### Get the values:
 ```java
 package org.firstinspires.ftc.teamcode;
+import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 import com.qualcomm.robotcore.hardware;
 
 @TeleOp

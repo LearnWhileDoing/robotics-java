@@ -10,12 +10,14 @@ Check game manual part 1 for a list of game-legal motors
 First, be sure to get the necessary packages imported:
 ```java
 package org.firstinspires.ftc.teamcode;
+import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 import com.qualcomm.robotcore.hardware.DcMotor;
 ```
 Then, be sure to init your motor:
 ```java
 package org.firstinspires.ftc.teamcode;
-import com.qualcomm.robotcore.hardware;
+import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
+import com.qualcomm.robotcore.hardware.DcMotor;
 
 @TeleOp
 public class MotorTest extends LinearOpMode {
@@ -31,7 +33,8 @@ public class MotorTest extends LinearOpMode {
 ### Set power of a motor:
 ```java
 package org.firstinspires.ftc.teamcode;
-import com.qualcomm.robotcore.hardware;
+import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
+import com.qualcomm.robotcore.hardware.DcMotor;
 
 @TeleOp
 public class MotorTest extends LinearOpMode {
@@ -51,7 +54,8 @@ If you run this example, the motor will spin at 65% speed in the forward directi
 One:
 ```java
 package org.firstinspires.ftc.teamcode;
-import com.qualcomm.robotcore.hardware;
+import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
+import com.qualcomm.robotcore.hardware.DcMotor;
 
 @TeleOp
 public class MotorTest extends LinearOpMode {
@@ -69,7 +73,8 @@ public class MotorTest extends LinearOpMode {
 Two:
 ```java
 package org.firstinspires.ftc.teamcode;
-import com.qualcomm.robotcore.hardware;
+import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
+import com.qualcomm.robotcore.hardware.DcMotor;
 
 @TeleOp
 public class MotorTest extends LinearOpMode {
@@ -97,9 +102,8 @@ This is the base to almost any TeleOp program. In fact, this code sample is take
 
 ```java
 package org.firstinspires.ftc.teamcode;
+import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 
-import com.qualcomm.robotcore.eventloop.opmode.OpMode;
-import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 import com.qualcomm.robotcore.hardware.DcMotor;
 
 @TeleOp
@@ -126,6 +130,12 @@ Making a motor infinitely run at a set speed is all well and good, but what if y
 
 First, let's learn how encoders work:
 ```java
+package org.firstinspires.ftc.teamcode;
+import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
+
+import com.qualcomm.robotcore.hardware.DcMotor;
+
+@TeleOp
 public class MotorTest extends LinearOpMode {
     DcMotor intakeMotor;
 
@@ -146,6 +156,12 @@ You should see the position of the motor's encoder running up on your driver sta
 In order to make the motor run to a specific position, we need to do three things: Tell the motor it's job is now to go to a position, tell the script how far to turn, and how fast to do so.
 
 ```java
+package org.firstinspires.ftc.teamcode;
+import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
+
+import com.qualcomm.robotcore.hardware.DcMotor;
+
+@TeleOp
 public class MotorTest extends LinearOpMode {
     DcMotor intakeMotor;
 

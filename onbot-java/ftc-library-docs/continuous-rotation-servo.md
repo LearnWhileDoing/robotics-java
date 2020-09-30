@@ -10,11 +10,13 @@ Check game manual part 1 for a list of game-legal servos.
 First, be sure to get the necessary packages imported:
 ```java
 package org.firstinspires.ftc.teamcode;
+import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 import com.qualcomm.robotcore.hardware.CRServo;
 ```
 Then, be sure to init the servo:
 ```java
 package org.firstinspires.ftc.teamcode;
+import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 import com.qualcomm.robotcore.hardware;
 
 @TeleOp
@@ -31,6 +33,7 @@ public class CRServoTest extends LinearOpMode {
 ### Spin at a set speed:
 ```java
 package org.firstinspires.ftc.teamcode;
+import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 import com.qualcomm.robotcore.hardware;
 
 @TeleOp
@@ -53,6 +56,7 @@ But what if we want it to spin the other way? Again, there are 2 ways of doing t
 one:
 ```java
 package org.firstinspires.ftc.teamcode;
+import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 import com.qualcomm.robotcore.hardware;
 
 @TeleOp
@@ -71,6 +75,7 @@ public class CRServoTest extends LinearOpMode {
 Two:
 ```java
 package org.firstinspires.ftc.teamcode;
+import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 import com.qualcomm.robotcore.hardware;
 
 @TeleOp

@@ -12,12 +12,14 @@ Check game manual part 1 for a list of game-legal servos.
 First, be sure to get the necessary packages imported:
 ```java
 package org.firstinspires.ftc.teamcode;
+import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
 import com.qualcomm.robotcore.hardware.Servo;
 ```
 Then, be sure to init the servo:
 ```java
 package org.firstinspires.ftc.teamcode;
-import com.qualcomm.robotcore.hardware;
+import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
+import com.qualcomm.robotcore.hardware.Servo;
 
 @TeleOp
 public class ServoTest extends LinearOpMode {
@@ -33,7 +35,8 @@ public class ServoTest extends LinearOpMode {
 ### Turn to a set position:
 ```java
 package org.firstinspires.ftc.teamcode;
-import com.qualcomm.robotcore.hardware;
+import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
+import com.qualcomm.robotcore.hardware.Servo;
 
 @TeleOp
 public class ServoTest extends LinearOpMode {
@@ -54,7 +57,8 @@ But what if you want it to turn based on your inputs? Lets use gamepad1's x and 
 
 ```java
 package org.firstinspires.ftc.teamcode;
-import com.qualcomm.robotcore.hardware;
+import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
+import com.qualcomm.robotcore.hardware.Servo;
 
 @TeleOp
 public class ServoTest extends LinearOpMode {

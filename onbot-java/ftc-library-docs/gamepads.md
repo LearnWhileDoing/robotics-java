@@ -8,7 +8,8 @@ This document provides a reference library for the use of gamepads. To start off
 
 ```java
 package org.firstinspires.ftc.teamcode;
-import com.qualcomm.robotcore.hardware;
+import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
+import com.qualcomm.robotcore.hardware.Gamepad;
 ```
 
 # Code Reference
