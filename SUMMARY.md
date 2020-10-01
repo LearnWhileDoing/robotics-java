@@ -43,9 +43,12 @@
 * [Using the Hardware Map](onbot-java/using-the-hardware-map.md)
 * [Moving your robot](onbot-java/moving-your-robot.md)
 * [More OpMode magic](onbot-java/more-opmode-magic/README.md)
-  * [Gamepad](onbot-java/more-opmode-magic/gamepad.md)
 * [FTC Library Docs](onbot-java/ftc-library-docs/README.md)
+  * [Telemetry](onbot-java/ftc-library-docs/telemetry.md)
+  * [Gamepads](onbot-java/more-opmode-magic/gamepads.md)
   * [DcMotor](onbot-java/ftc-library-docs/dcmotor.md)
+  * [Servo](onbot-java/ftc-library-docs/servo.md)
+  * [CR Servo](onbot-java/ftc-library-docs/continuous-rotation-servo.md)
   * [Color Sensor](onbot-java/ftc-library-docs/color-sensor.md)
 
 ## Sample Code <a id="sample-opmodes"></a>
