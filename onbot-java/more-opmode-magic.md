@@ -55,5 +55,5 @@ telemetry.update()
 
 The gamepad is available with the `gamepad1` and `gamepad2` variables in the `OpMode` and `LinearOpMode` classes. 
 
-[Learn more about using the gamepad.](gamepad.md)
+[Learn more about using the gamepad.]()
 

@@ -42,7 +42,7 @@
 * [Your FIRST OpMode!](onbot-java/your-first-opmode.md)
 * [Using the Hardware Map](onbot-java/using-the-hardware-map.md)
 * [Moving your robot](onbot-java/moving-your-robot.md)
-* [More OpMode magic](onbot-java/more-opmode-magic/README.md)
+* [More OpMode magic](onbot-java/more-opmode-magic.md)
 * [FTC Library Docs](onbot-java/ftc-library-docs/README.md)
   * [Telemetry](onbot-java/ftc-library-docs/telemetry.md)
   * [Gamepads](onbot-java/ftc-library-docs/gamepads.md)
