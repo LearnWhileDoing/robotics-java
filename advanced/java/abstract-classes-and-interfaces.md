@@ -84,8 +84,8 @@ abstract class Car {
     String color;
     int year;
     
-    void accelerate();
-    void brake();
+    abstract void accelerate();
+    abstract void brake();
     
     void drive() {
         System.out.println("vroom vroom");
@@ -93,7 +93,7 @@ abstract class Car {
 }
 ```
 
-Before we declared the `Car` class, we used the `abstract` class. This tells Java that this class is _abstract_, and cannot be instantiated. Now, we can make another class that _extends_ the `Car` class.
+Before we declared the `Car` class, we used the `abstract` class. This tells Java that this class is _abstract_, and cannot be instantiated. We also use the `abstract` keyword before any methods we don't implement. Now, we can make another class that _extends_ the `Car` class.
 
 ```java
 class HondaCivic extends Car {
