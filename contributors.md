@@ -11,7 +11,6 @@ Main author:
 With contributions from:
 
 * [u/brandonk8325](https://www.reddit.com/user/brandonk8325) - Construction supervisor, 10415
-* bk2 - Club president, DHS Robotics
 * [jackcrane](https://github.com/jackcrane) - FTC Team 14365
 
 Thanks to great suggestions and contributions from [FROGbots-4634](https://github.com/FROGbots-4634)!
